@@ -1,0 +1,4 @@
+App\Entity\User:
+    cook{1..10}:
+        name: '<name()>'
+        
